@@ -1,4 +1,4 @@
-### Hi there 👋, We are <a href="https://github.com/Kenya-Red-Cross"> Kenya Red Cross Society</a> Data-team based at the <a href="http://icha.net"> International Center for Humanitarian Affairs</a>
+### Hi there 👋, We are <a href="https://redcross.or.ke"> Kenya Red Cross Society</a> Data-team based at the <a href="http://icha.net"> International Center for Humanitarian Affairs</a>
 
 <!--
 **ICHAdatateam/ICHAdatateam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
